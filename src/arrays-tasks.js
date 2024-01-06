@@ -102,7 +102,6 @@ function removeFalsyValues(arr) {
  * @return {array} - The array of string lengths.
  *
  * @example
- *    getStringsLength([ '', 'a', 'bc', 'def', 'ghij' ]) => [ 0, 1, 2, 3, 4 ]
  *    getStringsLength([ 'angular', 'react', 'ember' ]) => [ 7, 5, 5 ]
  */
 function getStringsLength(arr) {
